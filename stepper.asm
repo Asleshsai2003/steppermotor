@@ -1,4 +1,5 @@
-
+#how stepper motor works without any feedback mechanism
+#we all know stepper motor is a brushless, synchronous dc motor that is used in CNC milling machine or automatic milling machine and it doesnot need feedback mechanism considering it's operation happens in step-wise format
 
 
 name "stepper motor"
